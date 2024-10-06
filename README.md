@@ -1,6 +1,6 @@
-# cs1-study
+# cs2-study
 
-GDG CS1 스터디용 레포
+GDG CS2 스터디용 레포
 
 ---
 
